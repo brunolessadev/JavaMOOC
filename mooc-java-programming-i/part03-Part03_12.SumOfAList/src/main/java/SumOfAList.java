@@ -17,8 +17,12 @@ public class SumOfAList {
             list.add(input);
         }
 
-        System.out.println("");
-
-        // toteuta listan lukujen summan laskeminen tänne
+        if(!list.isEmpty()){
+            int sum = 0;
+            for (int i = 0; i < list.size(); i++) {
+                sum = sum + list.get(i);
+            }
+            System.out.println("Sum: " + sum);
+        }
     }
 }
