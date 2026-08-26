@@ -19,9 +19,14 @@ public class Swap {
         }
         System.out.println("");
 
-        // Implement here
-        // asking for the two indices
-        // and then swapping them
+        System.out.println("Give two indices to swap:");
+
+        int input1 = Integer.parseInt(scanner.nextLine());
+        int input2 = Integer.parseInt(scanner.nextLine());
+
+        int helper = array[input1];
+        array[input1] = array[input2];
+        array[input2] = helper;
 
         System.out.println("");
         index = 0;
