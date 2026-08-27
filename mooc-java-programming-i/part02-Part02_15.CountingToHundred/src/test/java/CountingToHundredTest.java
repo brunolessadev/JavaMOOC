@@ -1,4 +1,3 @@
-/*
 
 import fi.helsinki.cs.tmc.edutestutils.MockStdio;
 import fi.helsinki.cs.tmc.edutestutils.Points;
@@ -63,6 +62,3 @@ public class CountingToHundredTest {
     }
 
 }
-
-
- */
