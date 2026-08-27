@@ -11,7 +11,7 @@ public class PersonalInformationCollection {
         Scanner scanner = new Scanner(System.in);
 
         while (true){
-            
+
             String inputFirstName = scanner.nextLine();
 
             if(inputFirstName.isEmpty()){
