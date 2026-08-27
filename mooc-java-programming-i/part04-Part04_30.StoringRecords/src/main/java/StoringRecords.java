@@ -24,8 +24,12 @@ public class StoringRecords {
         try (Scanner fileScanner = new Scanner(Paths.get(file))) {
             while (fileScanner.hasNextLine()) {
                 String line = fileScanner.nextLine();
-                String[] parts = line.split(",");
 
+                if (line.trim().isEmpty()) {
+                    continue;
+                }
+
+                String[] parts = line.split(",");
                 String name = parts[0];
                 int age = Integer.valueOf(parts[1]);
 
