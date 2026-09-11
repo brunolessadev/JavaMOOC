@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_01.Menu/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_02.Stack/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_10.TodoList/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_11.Averages/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_08.CargoHold/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_13.Exercises/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_07.HeightOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_12.JokeManager/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_05.SantasWorkshop/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_03.MessagingService/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_09.SimpleDictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_04.PrintingACollection/pom.xml" />
+        <option value="$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_06.LongestInCollection/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_26_PREVIEW" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

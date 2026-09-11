@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_01.Menu.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_02.Stack.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_03.MessagingService.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_04.PrintingACollection.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_05.SantasWorkshop.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_06.LongestInCollection.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_07.HeightOrder.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_08.CargoHold.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_09.SimpleDictionary.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_10.TodoList.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_11.Averages.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_12.JokeManager.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mooc-java-programming-i/part06-Part06_13.Exercises.src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_01.Menu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_01.Menu/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_02.Stack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_02.Stack/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_03.MessagingService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_03.MessagingService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_04.PrintingACollection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_04.PrintingACollection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_05.SantasWorkshop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_05.SantasWorkshop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_06.LongestInCollection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_06.LongestInCollection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_07.HeightOrder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_07.HeightOrder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_08.CargoHold/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_08.CargoHold/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_09.SimpleDictionary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_09.SimpleDictionary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_10.TodoList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_10.TodoList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_11.Averages/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_11.Averages/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_12.JokeManager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_12.JokeManager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_13.Exercises/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tmcdata/mooc-java-programming-i/part06-Part06_13.Exercises/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

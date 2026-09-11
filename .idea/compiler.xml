@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Part06_10.TodoList" />
+        <module name="Part06_08.CargoHold" />
+        <module name="Part6_12.JokeManager" />
+        <module name="Part06_13.Exercises" />
+        <module name="part06-parent" />
+        <module name="Part06_11.Averages" />
+        <module name="Part06_05.SantasWorkshop" />
+        <module name="Part06_07.HeightOrder" />
+        <module name="Part06_09.SimpleDictionary" />
+        <module name="Part06_02.Stack" />
+        <module name="Osa06_03.Viestipalvelu" />
+        <module name="Osa06_04.JoukonTulostaminen" />
+        <module name="Part06_06.LongestInCollection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Part06_01.Menu" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
