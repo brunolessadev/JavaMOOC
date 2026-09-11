@@ -42,7 +42,7 @@
                         <configuration>
                             <sources>
                                 <source>mooc-java-programming-i/part06-Part06_01.Menu.src</source>
-                                <source>mooc-java-programming-i/part06-Part06_02.Stack.src</source>
+                                <source>JavaMOOC/mooc-java-programming-i/part06-Part06_02.Stack.src</source>
                                 <source>mooc-java-programming-i/part06-Part06_03.MessagingService.src</source>
                                 <source>mooc-java-programming-i/part06-Part06_04.PrintingACollection.src</source>
                                 <source>mooc-java-programming-i/part06-Part06_05.SantasWorkshop.src</source>
