@@ -3,6 +3,7 @@ import java.util.Objects;
 
 public class Message {
 
+
     private String sender;
     private String content;
 

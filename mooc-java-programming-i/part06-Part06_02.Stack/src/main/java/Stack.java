@@ -21,6 +21,6 @@ public class Stack {
     }
 
     public String take(){
-        return  this.values.remove(this.values.size()-1);     
+        return  this.values.remove(this.values.size()-1);
     }
 }
