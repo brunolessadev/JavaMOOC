@@ -5,12 +5,18 @@ public class GradeRegister {
 
     private ArrayList<Integer> grades;
 
+    private ArrayList<Integer> points;
+
     public GradeRegister() {
+
         this.grades = new ArrayList<>();
+        this.points = new ArrayList<>();
     }
 
     public void addGradeBasedOnPoints(int points) {
+
         this.grades.add(pointsToGrade(points));
+        this.points.add(points);
     }
 
     public int numberOfGrades(int grade) {
@@ -43,4 +49,30 @@ public class GradeRegister {
 
         return grade;
     }
+
+    public double averageOfGrades(){
+        if(grades.isEmpty()){
+            return -1.0;
+        }else {
+            double gradesSize = 0;
+            for (int i = 0; i < grades.size(); i++) {
+                gradesSize = gradesSize + grades.get(i);
+            }
+            return gradesSize / grades.size();
+        }
+    }
+
+    public double averageOfPoints(){
+
+        if(points.isEmpty()){
+            return -1.0;
+        }else {
+            double pointsSize = 0;
+            for (int i = 0; i < points.size(); i++) {
+                pointsSize = pointsSize + points.get(i);
+            }
+            return pointsSize / points.size();
+        }
+    }
+
 }
